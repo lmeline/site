@@ -20,6 +20,10 @@ ul{
     padding: 0;
 
  }
+ nav a:hovergit {
+    color: red;
+    background-color: blue;
+ }
 nav ul{
     color: bisque;
     list-style-type: none;
